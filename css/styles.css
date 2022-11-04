@@ -1,0 +1,95 @@
+.btn {
+    width: 16rem;
+    background-color: #e4dad1;
+    padding: 2px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 16rem;
+    align-content: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+    margin-bottom: 1rem;
+    align-items: center;
+}
+
+.content {
+    width: auto;
+    justify-content: center;
+    flex-direction: column;
+    display: grid;
+}
+
+.image img {
+    margin-top: 3rem;
+    border-radius: 20rem;
+    height: 16rem;
+}
+
+.image {
+    margin-bottom: 2rem;
+}
+
+.btn p {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+span {
+
+    padding: 0rem;
+    margin-left: 0.8rem;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a {
+    color: inherit;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+p {
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.creator {
+    color: rgb(49, 46, 46);
+    text-align: center;
+    font-weight: 500;
+}
+
+.btn .linkedin {
+    color: #0A66C2;
+
+}
+
+.btn .telegram {
+    color: #30A2E7;
+
+}
+
+.btn .youtube {
+    color: red;
+
+}
+
+.btn .steam {
+    color: #10224C;
+}
+
+.btn .bee {
+    color: #eceff5;
+}
